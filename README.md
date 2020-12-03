@@ -39,4 +39,4 @@ Github: Jbrad12
 Email: jakebradshaw123@gmail.com
 
 
-screenshot: ![screenshot HW#9](/readme generator.png?raw=true)
+screenshot: ![screenshot HW#9](/readme.png?raw=true)
