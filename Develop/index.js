@@ -105,7 +105,7 @@ ${response.license}
 ${response.github}
 ${response.email}
 `
-  fs.writeFile('Test.md', readme, (err) =>
+  fs.writeFile('ReadMe.md', readme, (err) =>
   err ? console.error(err) : console.log('Success!')
     )
   })
